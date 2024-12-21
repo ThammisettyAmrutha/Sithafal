@@ -13,4 +13,4 @@ Example PDF: Tables, Charts, and Graphs with Examples Specific Tasks to be Perfo
 
 Extract the unemployment information based on the type of degree input. From page 6:
 
-Extract and display tabular data for user queries.Sithafal - project-tasks.pdf
+Extract and display tabular data for user queries.
